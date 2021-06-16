@@ -1,0 +1,4 @@
+Week 1
+We set up a group and choose project Bookit. Then discussed the theme and needs we wanted to do. As a backend developer I start to learn the framework we used.
+Week 2
+We have a meeting to discuss the project details like the website design and database schema. Meanwhile, the proposal is on the way, I was responsible to the background and user story part with Xiaoyi Jiang. Also we write backlogs in Jira.
